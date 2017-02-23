@@ -1,0 +1,23 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "newsletter editor",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VargasCristian/Newsletter.git"
+  },
+  "keywords": [
+    "newsletter",
+    "editor"
+  ],
+  "author": "@Felip3_v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VargasCristian/Newsletter/issues"
+  },
+  "homepage": "https://github.com/VargasCristian/Newsletter#readme"
+}

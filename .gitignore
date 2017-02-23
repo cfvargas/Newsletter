@@ -1,0 +1,11 @@
+# node / npm
+node_modules
+*.log
+
+# phenomic build
+dist
+.env
+
+#OS STUFF
+.DS_Store
+.tmp
