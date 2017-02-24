@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42.487003mm"
+   height="8.0949802mm"
+   viewBox="0 0 42.487003 8.0949802"
+   version="1.1"
+   id="svg9663"
+   inkscape:version="0.92.0 r"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs9657" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="137.56868"
+     inkscape:cy="25.664299"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="844"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata9660">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-86.101737,-166.70846)">
+    <g
+       transform="translate(209.73065,121.82174)"
+       id="g5041">
+      <g
+         inkscape:export-filename="/home/felipe/Proyectos/MepsCloud/mepscloud_v2/dist/img/logosin-texto.png"
+         inkscape:export-ydpi="294.73044"
+         inkscape:export-xdpi="294.73044"
+         style="fill:#00aafa;fill-opacity:1;stroke:none;stroke-width:1.6373893;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Capa 1"
+         id="g5035"
+         transform="matrix(0.12359584,0,0,0.12359584,-157.35292,1.4992709)">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:1;fill:#00aafa;fill-opacity:1;stroke:none;stroke-width:3.2747786;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 312.42357,351.04294 a 23.474597,23.985134 0 0 0 -23.47354,23.98487 23.474597,23.985134 0 0 0 0.50068,4.80444 17.99277,18.384086 0 0 0 -16.59357,18.32288 17.99277,18.384086 0 0 0 17.81688,18.37438 v 0.009 h 0.17577 64.0147 a 17.99277,18.384086 0 0 0 17.99265,-18.38327 17.99277,18.384086 0 0 0 -17.9092,-18.38147 c -2.12238,6.62125 -3.32014,14.63686 -3.32014,23.5339 0,2.44186 -1.97551,4.41915 -4.41737,4.41915 h -0.016 -0.0195 c -2.43696,0 -4.41915,-1.97729 -4.41915,-4.41915 0,-4.90612 -0.85165,-16.31661 -8.75664,-16.31661 -7.90255,0 -8.75664,11.41049 -8.75664,16.31661 0,2.44186 -1.97975,4.41915 -4.41915,4.41915 -0.0895,0 -0.18119,3.2e-4 -0.2681,-0.0248 -0.0895,0 -0.18223,0.0248 -0.27165,0.0248 -2.4394,0 -4.41915,-1.97729 -4.41915,-4.41915 0,-4.90612 -0.85341,-16.31661 -8.75841,-16.31661 -7.90758,0 -8.76019,11.41049 -8.76019,16.31661 0,2.44186 -1.97545,4.41915 -4.41737,4.41915 -2.43936,0 -4.41383,-1.97729 -4.41383,-4.41915 0,-18.54538 9.08703,-25.15669 17.59139,-25.15669 4.90858,0 10.01016,2.21398 13.44921,7.63987 3.439,-5.42589 8.53273,-7.63987 13.44389,-7.63987 3.84682,0 7.81044,1.36233 11.00084,4.55764 1.30672,-5.64023 3.16701,-10.65974 5.49153,-14.93529 a 17.99277,18.384086 0 0 0 -13.62143,-6.38815 17.99277,18.384086 0 0 0 -4.71566,0.64982 23.474597,23.985134 0 0 0 -19.73084,-10.99195 z"
+           id="path5031" />
+        <circle
+           inkscape:export-filename="/home/felipe/git/plataforma/dise-o-de-emails/public/img/logo.png"
+           inkscape:export-ydpi="42.105263"
+           inkscape:export-xdpi="42.105263"
+           style="opacity:1;fill:#00aafa;fill-opacity:1;stroke:none;stroke-width:3.2747786;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle5033"
+           cx="361.39334"
+           cy="360.41125"
+           r="3.9378457" />
+      </g>
+      <text
+         inkscape:export-ydpi="360"
+         inkscape:export-xdpi="360"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:7.05555534px;font-family:lato;-inkscape-font-specification:lato;letter-spacing:0px;word-spacing:0px;fill:#00aafa;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-109.44818"
+         y="52.013676"
+         id="text5039"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:7.05555534px;font-family:lato;-inkscape-font-specification:lato;fill:#00aafa;fill-opacity:1;stroke-width:0.28222224px"
+           sodipodi:role="line"
+           id="tspan5037"
+           x="-109.44818"
+           y="52.013676">Meps cloud</tspan></text>
+    </g>
+  </g>
+</svg>
